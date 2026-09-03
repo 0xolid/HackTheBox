@@ -21,12 +21,12 @@ The goal of this repository is simple:
     .
     ├── Challenges
     ├── Machines
-    │   ├── Easy
+    │   ├── 01-Easy
     │   │   └── Cap.md
     │   │   └── ...
-    │   ├── Medium
-    │   ├── Hard
-    │   └── Insane
+    │   ├── 02-Medium
+    │   ├── 03-Hard
+    │   └── 04-Insane
     └── Sherlocks
 
 The repository is organized into different HackTheBox categories.
