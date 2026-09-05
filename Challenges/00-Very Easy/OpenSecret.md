@@ -20,7 +20,7 @@ And easily we can found the flag in plain text.
             const SECRET_KEY = "HTB{0p3n_s3cr3ts_ar3_n0t_s3cr3ts}";
 ```
 
-```flag
+```text
 HTB{0p3n_s3cr3ts_ar3_n0t_s3cr3ts}
 ```
 

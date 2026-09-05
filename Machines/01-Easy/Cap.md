@@ -1,5 +1,7 @@
 # Cap Writeup
 
+> Machine : Linux
+
 >  Cap is an easy difficulty Linux machine running an HTTP server that performs administrative functions including performing network captures. Improper controls result in Insecure Direct Object Reference (IDOR) giving access to another user's capture. The capture contains plaintext credentials and can be used to gain foothold. A Linux capability is then leveraged to escalate to root.
 
 ## Solution
@@ -97,12 +99,12 @@ cat user.txt
 ```
 
 ```text
-3d618d###############################
+3d618d6a455ed714f8e1310bb0d10f47
 ```
 
 > Submit User Flag
 > 
-> 3d618d###############################
+> 3d618d6a455ed714f8e1310bb0d10f47
 
 User Flag Captured! The first phase was complete. Now, it was time to find a way to become root.
 
@@ -135,10 +137,10 @@ cat /root/root.txt
 ```
 
 ```text
-c3433884e################################
+c343a884e8a9f66dc819004b9e7d93fc
 ```
 
 > Submit Root Flag
 > 
-> c3433884e################################
+> c343a884e8a9f66dc819004b9e7d93fc
 
