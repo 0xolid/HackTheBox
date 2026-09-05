@@ -19,17 +19,17 @@ The goal of this repository is simple:
 ## Repository Structure
 
     .
-    ├── Challenges
+    ├── Challenges/
     │
-    ├── Machines
-    │   ├── 01-Easy
+    ├── Machines/
+    │   ├── 01-Easy/
     │   │   └── Cap.md
     │   │   └── ...
-    │   ├── 02-Medium
-    │   ├── 03-Hard
-    │   └── 04-Insane
+    │   ├── 02-Medium/
+    │   ├── 03-Hard/
+    │   └── 04-Insane/
     │
-    ├── Sherlocks
+    ├── Sherlocks/
     │
     └── README.md
 
