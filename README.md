@@ -20,6 +20,7 @@ The goal of this repository is simple:
 
     .
     ├── Challenges
+    │
     ├── Machines
     │   ├── 01-Easy
     │   │   └── Cap.md
@@ -27,7 +28,10 @@ The goal of this repository is simple:
     │   ├── 02-Medium
     │   ├── 03-Hard
     │   └── 04-Insane
-    └── Sherlocks
+    │
+    ├── Sherlocks
+    │
+    └── README.md
 
 The repository is organized into different HackTheBox categories.
 
